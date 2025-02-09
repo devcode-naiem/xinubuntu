@@ -3,7 +3,7 @@
 # Xinubuntu
 ### Advanced Xinu Operating System Development Environment
 
-[<img src="https://via.placeholder.com/900x300?text=Xinubuntu+Development+Environment" alt="Xinubuntu Banner" width="100%"/>](https://github.com/devcode-naiem/xinubuntu)
+<img src="https://i.ibb.co.com/0y5RjZvg/xinubuntu.png" alt="Xinubuntu" width="400">
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/devcodenaiem/xinubuntu.svg?style=for-the-badge&logo=docker&color=0db7ed)](https://hub.docker.com/r/devcode-naiem/xinubuntu)
 [![GitHub Stars](https://img.shields.io/github/stars/devcode-naiem/xinubuntu.svg?style=for-the-badge&logo=github&color=yellow)](https://github.com/devcode-naiem/xinubuntu/stargazers)
